@@ -1,10 +1,13 @@
 remote_theme: pages-themes/jekyll/minima@1e8a445
 title: Francisco Ponce-Carrion
 description: fmponcec@ncsu.edu
+author:
+  name: John Smith
+  email: "john.smith@foobar.com"
 plugins:
-- jekyll-remote-theme
-- jekyll-feed
-- jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 minima:
   nav_pages:
     - about.md
