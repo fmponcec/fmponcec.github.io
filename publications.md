@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Research
+permalink: /research/
 ---
 # Preprints
  - Francisco Ponce-Carrión and Seth Sullivant. Marginal Independence and Partial Set Partitions, 2024. [Link](https://arxiv.org/abs/2402.16292)
