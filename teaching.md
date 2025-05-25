@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-| Term        | Class          | Role |
+| Term        | Course          | Role |
 |:-------------|:------------------|:------|
 | Summer 2025 | MA 305 Introductory Linear Algebra and Matrices | Instructor of record |
 | Spring 2025 | MA 131  Calculus for Life and Management Sciences A | Instructor of record |
