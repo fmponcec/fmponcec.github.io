@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-I am a fifth year Mathematics PhD student at North Carolina State University. In broad terms, I am interested in applied algebraic geometry. More specifically, I use techniques from algebraic geometry and combinatorics to tackle problems in more applied areas (e.g. statistical models, dynamical systems). 
+I am a fifth year Mathematics PhD student at North Carolina State University. My research interests lie in the area of applied algebraic geometry and combinatorics. In particular, I am interested in the use of algebraic and combinatorial tools to answer questions in other fields of mathematics. The main areas of applications I have worked on are: marginal independence models (mathematical statistics), continuous Newton's method (dynamical systems/homotopy continuation), and linear compartmental models (dynamical systems/mathematical biology). In broad terms, we prove structural properties of the objects in these applications (statistical models/dynamical systems) that rely on a combinatorial or algebraic object (e.g. posets/toric ideals/relative root configurations).
