@@ -4,9 +4,9 @@ title: Teaching
 permalink: /teaching/
 ---
 
-| head1        | head two          | three |
+| Term        | Class          | Role |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Summer 2025           |  | Instructor of record  |
+| Spring 2025 | good and plenty   | Instructor of record  |
+| Fall 2024           | good `oreos`      | Instructor of record  |
+| Summer 2024           | good `zoute` drop | Instructor of record  |
