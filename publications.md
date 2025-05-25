@@ -3,6 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
+I am interested in the use of algebraic and combinatorial tools to answer questions in other fields of mathematics (usually more applied ones). The main areas of applications I have worked on are: marginal independence models (mathematical statistics), continuous Newton's method (dynamical systems/homotopy continuation), and linear compartmental models (dynamical systems/mathematical biology). In broad terms, we prove structural properties of the objects in these applications (statistical models/dynamical systems) that rely on a combinatorial or algebraic object (e.g. posets/toric ideals/relative root configurations).
 # Preprints
  - Francisco Ponce-Carrión and Seth Sullivant. Marginal Independence and Partial Set Partitions, 2024. [Link](https://arxiv.org/abs/2402.16292)
  - Jonathan D. Hauenstein, Caroline Hills, Hoon Hong, and Francisco Ponce-Carrión. Geometry of Continuous Adjoint Newton’s Method for Bivariate Quadratics, 2024. [Link](https://www3.nd.edu/jhauenst/preprints/hhhpGeometryNewton.pdf)
